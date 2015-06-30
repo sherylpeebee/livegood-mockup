@@ -1,0 +1,79 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div.brand-image{
+  width: 25%;
+  display: inline-table;
+}
+
+#center-image{
+  position: relative;
+  margin-left: 20px;
+}
+#right-image{
+  position: relative;
+  margin-left: 20px;
+}
+#image-wrapper{
+  position: relative;
+  left: 16px;
+}
+
+h5#center-text {
+  position: relative;
+  left: 16px;
+}
+h5#right-text {
+  position: relative;
+  left: 20px;
+}
+.right-p{
+  margin-left: auto;
+}
+p {
+  margin: 0 0 10px;
+  margin-left: 20px;
+}
+
+footer{
+  border-top: 1px dotted #b1c297;
+  margin-top: 12px;
+  position: relative;
+  bottom: 0;
+  width: 78%;
+}
+p.info{
+  width: 450px;
+  text-align: justify;
+}
+.dilemma-wrapper{
+  width: 80%;
+}
+
+.dilemma{
+  width: 200px;
+}
+img.promise{
+  padding: 20px;
+}
+
+.brown {
+  background-color: beige;
+  height: 312px;
+  padding: 9px;
+  padding-left: 29px;
+  width: 250px;
+  position: relative;
+  left: 102px;
+}
+
+#dilemmaheader{
+  color: #6ab255;
+
+}
